@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://danielsalvado.com/</loc>
+    </url>
+    <url>
+        <loc>http://danielsalvado.com/work</loc>
+    </url>
+    <url>
+        <loc>http://danielsalvado.com/blog</loc>
+    </url>
+    <url>
+        <loc>http://danielsalvado.com/legal-notice</loc>
+    </url>
+    <url>
+        <loc>http://danielsalvado.com/blog/responsive-columns-with-css-grid</loc>
+    </url>
+    <url>
+        <loc>http://danielsalvado.com/blog/hello-world</loc>
+    </url>
+    <url>
+        <loc>http://danielsalvado.com/blog/responsive-data-tables-with-css-grid</loc>
+    </url>
+    <url>
+        <loc>http://danielsalvado.com/blog/from-emt-to-web-developer</loc>
+    </url>
+</urlset>

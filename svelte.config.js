@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-cloudflare';
+import adapter from '@sveltejs/adapter-vercel';
 import { mdsvex } from 'mdsvex';
 import relativeImages from 'mdsvex-relative-images';
 import sveltePreprocess from 'svelte-preprocess';
